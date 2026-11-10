@@ -1,0 +1,10 @@
+<!--
+  Launcher artwork derived from the bundled Level Devil game favicon.
+  Copyright and trademark rights belong to their respective owners.
+  This artwork is not licensed under the MIT License.
+  See THIRD_PARTY_NOTICES.md.
+-->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/icon_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>

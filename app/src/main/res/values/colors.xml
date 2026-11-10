@@ -1,0 +1,10 @@
+<!--
+  Copyright (c) 2026 MinOS-WJ
+  https://github.com/MinOS-WJ
+  SPDX-License-Identifier: MIT
+-->
+<resources>
+    <color name="game_background">#2C0701</color>
+    <color name="icon_background">#6D1102</color>
+    <color name="splash_background">#2C0701</color>
+</resources>

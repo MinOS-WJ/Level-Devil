@@ -1,0 +1,11 @@
+<!--
+  Copyright (c) 2026 MinOS-WJ
+  https://github.com/MinOS-WJ
+  SPDX-License-Identifier: MIT
+-->
+<resources>
+    <string name="app_name">Level-Devil</string>
+    <string name="app_version">1.1.2</string>
+    <string name="app_author">MinOS-WJ</string>
+    <string name="app_author_url" translatable="false">https://github.com/MinOS-WJ</string>
+</resources>

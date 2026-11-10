@@ -1,0 +1,18 @@
+<!--
+  Copyright (c) 2026 MinOS-WJ
+  https://github.com/MinOS-WJ
+  SPDX-License-Identifier: MIT
+-->
+<resources>
+    <style name="Theme.LevelDevil" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/game_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#D34F2B</item>
+    </style>
+</resources>
